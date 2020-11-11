@@ -1,0 +1,17 @@
+commit a87a57bf1dc8e631306a1fbfdd5fd8980ebd17fb
+Author: Maicol Rojas <maidanrojas@uniboyaca.edu.co>
+Date:   Fri Nov 6 17:57:42 2020 -0500
+
+    Cambio perfil
+
+commit 4b7fe8aa0040dcb4198fe760512c900a66c15fd2
+Author: Maicol Rojas <maidanrojas@uniboyaca.edu.co>
+Date:   Fri Nov 6 17:51:18 2020 -0500
+
+    Cambio foto y nombre
+
+commit 5bce3266a24ba0fc859d145d257c52d7318913d8
+Author: Maicol Rojas <maidanrojas@uniboyaca.edu.co>
+Date:   Fri Nov 6 17:41:40 2020 -0500
+
+    Codigo base del portafolio
